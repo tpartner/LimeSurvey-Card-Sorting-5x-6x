@@ -1,0 +1,14 @@
+
+	{% set names = question_template_attribute.area_names|split(',')  %}
+		
+	<div class="card-sort-outer-wrapper">
+        <div class="droppable items-start"></div>
+        <div class="items-end-wrapper">
+        {% for index, item in  names %}
+            <div class="items-end-inner">
+                <div class="items-end-text">{{item|trim}}</div>
+                <div class="droppable items-end items-end-{{index+1}}" data-items-end="{{index+1}}"></div>
+            </div>
+        {% endfor %}			
+        </div>
+	</div>
