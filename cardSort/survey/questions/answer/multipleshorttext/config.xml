@@ -60,53 +60,70 @@
         </attribute>
         
         <!-- Hide some core attributes -->
-		<!--
-		<attribute>
-            <name>hidden</name>
-            <inputtype/>
-			<default>0</default>
-        </attribute>
         <attribute>
             <name>prefix</name>
-            <inputtype/>
+            <category>Display</category>
+            <inputtype></inputtype>
         </attribute>
         <attribute>
             <name>suffix</name>
-            <inputtype/>
-        </attribute>
-        <attribute>
-            <name>array_filter_style</name>
-            <inputtype/>
-        </attribute>
-        <attribute>
-            <name>display_rows</name>
-            <inputtype/>
-        </attribute>
-        <attribute>
-            <name>exclude_all_others</name>
-            <inputtype/>
-        </attribute>
-        <attribute>
-            <name>label_input_columns</name>
-            <inputtype/>
-        </attribute>
-        <attribute>
-            <name>maximum_chars</name>
-            <inputtype/>
-        </attribute>
-        <attribute>
-            <name>numbers_only</name>
-            <inputtype/>
+            <category>Display</category>
+            <inputtype></inputtype>
         </attribute>
         <attribute>
             <name>text_input_columns</name>
-            <inputtype/>
+            <category>Display</category>
+            <inputtype></inputtype>
+        </attribute>
+        <attribute>
+            <name>label_input_columns</name>
+            <category>Display</category>
+            <inputtype></inputtype>
+        </attribute>
+        <attribute>
+            <name>display_rows</name>
+            <category>Display</category>
+            <inputtype></inputtype>
         </attribute>
         <attribute>
             <name>input_size</name>
-            <inputtype/>
+            <category>Display</category>
+            <inputtype></inputtype>
+        </attribute>
+		
+        <!--
+		<attribute>
+            <name>hidden</name>
+            <category>Display</category>
+            <inputtype></inputtype>
+            <default>0</default>
         </attribute>
 		-->
+		
+        <attribute>
+            <name>maximum_chars</name>
+            <category>Input</category>
+            <inputtype></inputtype>
+        </attribute>
+		
+        <attribute>
+            <name>array_filter_style</name>
+            <category>Logic</category>
+            <inputtype></inputtype>
+        </attribute>
+		
+        <attribute>
+            <name>exclude_all_others</name>
+            <category>Logic</category>
+            <inputtype></inputtype>
+        </attribute>
+		
+        <attribute>
+            <name>numbers_only</name>
+            <category>Logic</category>
+            <inputtype></inputtype>
+            <default>0</default>
+        </attribute>
     </attributes>
 
     <!-- Here datas about how LimeSurvey should load the core js/css of the question -->
