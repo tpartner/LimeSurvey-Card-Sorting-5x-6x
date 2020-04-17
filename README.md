@@ -1,11 +1,14 @@
 # Card Sorting for LimeSurvey 4.x
 **A custom question theme for "card sorting" in LimeSurvey 4.x**
 
+Compatible with LimeSurvey version 4.x.
+
 ![Image Card Sorting](/cardSort/survey/questions/answer/multipleshorttext/assets/images/card_sort_4.x_3.png)
 
 **Implementation:**
 
-1) Extract the download and upload the **cardSort** folder to */pathToLimeSurvey/upload/themes/question/*.
+1) - **Manual installation** - Extract the download and upload the *cardSort* folder to */pathToLimeSurvey/upload/themes/question/*.
+    - **Theme manager** - Extract the download, compress (zip) the *cardSort* folder and import via the theme manager.
 
 2) Create a multiple-short-text question, click Save.
 
