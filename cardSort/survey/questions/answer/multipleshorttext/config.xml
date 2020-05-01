@@ -40,8 +40,6 @@
         </css>
         <js>
             <filename>scripts/cardsort.js</filename>
-            <filename>scripts/jquery-ui/jquery-ui.min.js</filename>
-            <filename>scripts/jquery.ui.touch-punch.min.js</filename>
         </js>
     </files>
 
@@ -63,32 +61,32 @@
         <attribute>
             <name>prefix</name>
             <category>Display</category>
-            <inputtype></inputtype>
+            <inputtype/>
         </attribute>
         <attribute>
             <name>suffix</name>
             <category>Display</category>
-            <inputtype></inputtype>
+            <inputtype/>
         </attribute>
         <attribute>
             <name>text_input_columns</name>
             <category>Display</category>
-            <inputtype></inputtype>
+            <inputtype/>
         </attribute>
         <attribute>
             <name>label_input_columns</name>
             <category>Display</category>
-            <inputtype></inputtype>
+            <inputtype/>
         </attribute>
         <attribute>
             <name>display_rows</name>
             <category>Display</category>
-            <inputtype></inputtype>
+            <inputtype/>
         </attribute>
         <attribute>
             <name>input_size</name>
             <category>Display</category>
-            <inputtype></inputtype>
+            <inputtype/>
         </attribute>
 		
         <!--
@@ -103,25 +101,25 @@
         <attribute>
             <name>maximum_chars</name>
             <category>Input</category>
-            <inputtype></inputtype>
+            <inputtype/>
         </attribute>
 		
         <attribute>
             <name>array_filter_style</name>
             <category>Logic</category>
-            <inputtype></inputtype>
+            <inputtype/>
         </attribute>
 		
         <attribute>
             <name>exclude_all_others</name>
             <category>Logic</category>
-            <inputtype></inputtype>
+            <inputtype/>
         </attribute>
 		
         <attribute>
             <name>numbers_only</name>
             <category>Logic</category>
-            <inputtype></inputtype>
+            <inputtype/>
             <default>0</default>
         </attribute>
     </attributes>
