@@ -3,7 +3,7 @@
 
 Compatible with LimeSurvey version 5.x.
 
-![Image Card Sorting](/Card-Sort/survey/questions/answer/multipleshorttext/assets/images/card_sort_4.x_3.png)
+![Image Card Sorting](/Card-Sort/survey/questions/answer/multipleshorttext/assets/images/card_sort_5x_4.png)
 
 **Implementation:**
 
@@ -13,7 +13,7 @@ Compatible with LimeSurvey version 5.x.
 2) Create a multiple-short-text question, click Save.
 
 3) Set the question setting "Question type" to "Card Sort", click Save.  
-![Image Select cardSort](/Card-Sort/survey/questions/answer/multipleshorttext/assets/images/card_sort_4.x_1.png)
+![Image Select cardSort](/Card-Sort/survey/questions/answer/multipleshorttext/assets/images/card_sort_5x_1.png)
 
 4) In the question setting "Sorting area names" field, enter a comma-separated list of the names for the sorting "buckets", click Save.  
 ![Image Enter Bucket names](/Card-Sort/survey/questions/answer/multipleshorttext/assets/images/card_sort_4.x_2.png)
