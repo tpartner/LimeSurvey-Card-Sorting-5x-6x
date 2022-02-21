@@ -11,7 +11,7 @@
         <authorUrl>http://partnersurveys.com</authorUrl>
         <supportUrl>None</supportUrl>
         <license>GNU General Public License version 2 or later</license>
-        <version>1.0</version>
+        <version>1.1</version>
         <apiVersion>1</apiVersion>
         <lastSecurityUpdate>1.0</lastSecurityUpdate>
         <description>Convert a multi-short-text question into a "Card Sort" interface</description>			
@@ -41,7 +41,7 @@
             <filename>scripts/cardsort.js</filename>
         </js>
 		<preview>
-			<filename>images/card_sort_4.x_3.png</filename>
+			<filename>images/card_sort_5x_4.png</filename>
 		</preview>
     </files>
 
