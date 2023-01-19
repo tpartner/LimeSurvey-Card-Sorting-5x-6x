@@ -5,8 +5,8 @@
         <name>Card-Sort</name>
         <type>question_theme</type>
         <title>Card Sort</title>
-        <creationDate>03/04/2020</creationDate>
-        <lastUpdate>16/07/2021</lastUpdate>
+        <creationDate>2020-04-03 08:00</creationDate>
+        <lastUpdate>2023-01-19 08:00</lastUpdate>
         <author>Tony Partner</author>
         <authorUrl>http://partnersurveys.com</authorUrl>
         <supportUrl>None</supportUrl>
@@ -27,6 +27,7 @@
     <compatibility>
         <version>4.0</version>
         <version>5.0</version>
+        <version>6.0</version>
     </compatibility>
 
     <!--
@@ -90,15 +91,6 @@
             <category>Display</category>
             <inputtype/>
         </attribute>
-		
-        <!--
-		<attribute>
-            <name>hidden</name>
-            <category>Display</category>
-            <inputtype></inputtype>
-            <default>0</default>
-        </attribute>
-		-->
 		
         <attribute>
             <name>maximum_chars</name>
