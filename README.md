@@ -1,7 +1,7 @@
-# Card Sorting for LimeSurvey 5.x
-**A custom question theme for "card sorting" in LimeSurvey 5.x**
+# Card Sorting for LimeSurvey 5.x - 6.6
+**A custom question theme for "card sorting" in LimeSurvey 5.x and 6.x**
 
-Compatible with LimeSurvey version 5.x.
+Compatible with LimeSurvey version 5.x and 6.x.
 
 ![Image Card Sorting](/Card-Sort/survey/questions/answer/multipleshorttext/assets/images/card_sort_5x_4.png)
 
